@@ -4,7 +4,7 @@
 
 # Cadastro de Restaurantes em C
 
-![C](https://img.shields.io/badge/C--A61C30?logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A61C30?style=flat-square&logoColor=white)
 ![Listas](https://img.shields.io/badge/lista_encadeada-240b19?style=flat-square&logoColor=white)
 ![Arquivos](https://img.shields.io/badge/arquivos-89172c?style=flat-square&logoColor=white)
 
