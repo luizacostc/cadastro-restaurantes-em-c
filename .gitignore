@@ -1,0 +1,20 @@
+# Arquivos compilados e temporários
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+*.so
+*.dSYM/
+*.tmp
+*.log
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Arquivos pessoais/gerados localmente
+.DS_Store
+Thumbs.db
+restaurantes.txt
